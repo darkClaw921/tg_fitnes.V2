@@ -1,0 +1,6 @@
+ydb
+six
+boto3
+telebot
+bitrix24-rest
+loguru
